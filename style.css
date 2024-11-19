@@ -56,6 +56,14 @@
 #jumbo-left > p {
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 20px;
+}
+.buttonAction {
+    padding: 8px 30px;
+    background: #3882F6;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
 }
 
 #jumbo > * {
