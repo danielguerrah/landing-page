@@ -190,3 +190,36 @@
     text-align: end;
     font-size: 18px;
 }
+
+#call-to-action {
+    display: flex;
+    background: #3882F6;
+    width: 600px;
+    margin: 50px auto;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 150px;
+    color: white;
+}
+
+#call-to-action-text {
+    flex: 1;
+}
+
+#call-to-action-button {
+    flex: 1;
+    display: flex;
+    justify-content: end;
+}
+
+#call-to-action-button span{
+    border: 2px white solid;
+}
+
+#footer {
+    background: #1F2937;
+    padding: 30px 0px;
+    text-align: center;
+    color: #E5E7EB;
+}
